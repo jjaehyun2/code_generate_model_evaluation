@@ -1,3 +1,4 @@
+```text
 # ReadMe
 1. 개요 (Overview)
 
@@ -62,7 +63,7 @@
     6.1 가중치 최적화 알고리즘 — 데이터셋별 최적 비율 탐색
     6.2 실행 기반 평가(Test-driven Evaluation) 결합
     6.3 GUI 대시보드 시각화 및 모델 성능 비교
-
+```
 # Hybrid Code Generation Evaluation Framework
 ## Integrating LPcodedec Stylistic Analysis and StructCoder Structural Analysis
 
